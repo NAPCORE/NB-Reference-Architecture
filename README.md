@@ -16,3 +16,7 @@ The National Body Reference Architecture can be used for three different use cas
 -  Third, establish basis for comparison of national body by splitting complex functionalities and processes up. These separated parts can be compared between national bodies. <br>
 
 Due to the ongoing developments in work regarding the harmonisation of the national bodies, this work describes the first version of the architecture.<br> The status of the National Body Reference Architecture is ongoing and the continuous new inputs, e.g. the adoption to the new release ITS directive, from NAPCORE to the architecture will result in updates of the National Body Reference Architecture in 2024.
+
+
+Find the latest version of the NB Reference Architecture in the release section:
+[Releases](https://github.com/NAPCORE/NB-Reference-Architecture/releases)
