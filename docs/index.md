@@ -1,18 +1,18 @@
-This site presents [National Access Point (NAP) Reference Architecture](uml/nap_architecture.md), based on the [European ITS Framework Architecture (FRAME) methodology](frame.md).
+This site presents [National Body (NB) Reference Architecture](uml/nb_architecture.md), based on the [European ITS Framework Architecture (FRAME) methodology](frame.md).
 
-NRA aims to harmonize NAP activities at the European level and increase their effectiveness. It defines roles, functions, and processes for NAP users and data registration and data/metadata retrieval. It also outlines the minimum functionality for the two basic NAP types at the national level (Metadata directory and Data Platform).
+NB Reference Architecture aims to harmonize NB activities at the European level and increase their effectiveness. It defines roles, functions, and processes for NB operators. It also outlines the minimum functionality for National Bodies based on legal obligations and NAPCORE harmonization activities.
 
-Main content of this site is a browsable UML model of the NAP Reference Architecture. To complement the NRA model we also include FRAME models for the reference. 
+Main content of this site is a browsable UML model of the NB Reference Architecture. To complement the MB model we also include FRAME models for the reference. 
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __NAP Reference Architecture__
+-   :material-clock-fast:{ .lg .middle } __NB Reference Architecture__
 
     ---
 
-    Dive into to model of the NAP Reference Architecture
+    Dive into to model of the NB Reference Architecture
 
-    [:octicons-arrow-right-24: Explore](uml/nap_architecture.md)
+    [:octicons-arrow-right-24: Explore](uml/nb_architecture.md)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __FRAME metamodel__
 
@@ -34,7 +34,7 @@ Main content of this site is a browsable UML model of the NAP Reference Architec
 
     ---
 
-    All materials of FRAME and NRA is licensed under MIT and available on [GitHub]
+    All materials of FRAME and NB is licensed under MIT and available on [GitHub]
 
     [:octicons-arrow-right-24: License](https://mit-license.org/)
 
