@@ -10,7 +10,7 @@ theme:
 nav:
   - Home: index.md
   - "The FRAME Architecture": frame.md
-  - "NB Reference Architecture": nap_architecture.md
+  - "NB Reference Architecture": nb_architecture.md
   - Browsable UML Models:
       - FRAME Repository: uml/frame_repository.md
       - FRAME Meta Model: uml/frame_metamodel.md
