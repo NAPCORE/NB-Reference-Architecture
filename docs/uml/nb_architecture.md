@@ -1,5 +1,5 @@
 ---
-model_name: NAP Reference Architecture
+model_name: NB Reference Architecture
 version: 0.7.1
 target_url: ../uml_models/nap_architecture/index.htm
 ---
