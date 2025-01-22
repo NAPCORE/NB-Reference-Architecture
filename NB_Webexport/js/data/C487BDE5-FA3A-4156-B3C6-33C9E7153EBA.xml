@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.3.5:1", "", "«FRAME_Low_Level_Function» Access Information on NAP", "EARoot/EA3/EA5/EA127.htm", "21.png", "E5535", "0", "", "Activity0","{0C0582A3-C5C5-4ea0-8504-DE328D35C702}");
+tocTab[tocTab.length] = new Array("0.3.5:2", "", "«FRAME_Low_Level_Function» Compliance Assessment", "EARoot/EA3/EA5/EA128.htm", "21.png", "E5542", "0", "", "Activity0","{91C7B206-E453-4ab9-B0B6-D08FDE6075D8}");
+tocTab[tocTab.length] = new Array("0.3.5:3", "", "«FRAME_Low_Level_Function» Manage Requests", "EARoot/EA3/EA5/EA129.htm", "21.png", "E5541", "0", "", "Activity0","{45963755-0898-4846-8129-F2724C86B673}");
+tocTab[tocTab.length] = new Array("0.3.5:4", "", "«FRAME_Low_Level_Function» Manage Stakeholder List", "EARoot/EA3/EA5/EA130.htm", "21.png", "E5538", "0", "", "Activity0","{35C53FD1-0C8A-49dc-85AE-E2D72F886A54}");
+tocTab[tocTab.length] = new Array("0.3.5:5", "", "«FRAME_Low_Level_Function» Management of Self Declaration", "EARoot/EA3/EA5/EA131.htm", "21.png", "E5536", "0", "", "Activity0","{12F2142B-1179-455b-9F44-335FE9CBB4D2}");
+tocTab[tocTab.length] = new Array("0.3.5:6", "", "«FRAME_High_Level_Function» Provide NB support", "EARoot/EA3/EA5/EA132.htm", "21.png", "E5537", "0", "", "Activity0","{3577F755-7777-4b9e-AAF8-F0A7532ACE4A}");
+tocTab[tocTab.length] = new Array("0.3.5:7", "", "«FRAME_Low_Level_Function» Receive Self-Declaration", "EARoot/EA3/EA5/EA133.htm", "21.png", "E5543", "0", "", "Activity0","{F49ACE9E-16BD-430e-AAFF-5A858FC334B9}");
+tocTab[tocTab.length] = new Array("0.3.5:8", "", "«FRAME_Low_Level_Function» Reporting of self declaration and compliance assessment results", "EARoot/EA3/EA5/EA134.htm", "21.png", "E5539", "0", "", "Activity0","{395DED00-A80C-418c-A674-B65B7434A6E0}");
+tocTab[tocTab.length] = new Array("0.3.5:9", "", "«FRAME_Low_Level_Function» Validation of Completness", "EARoot/EA3/EA5/EA135.htm", "21.png", "E5540", "0", "", "Activity0","{3D931997-C649-47cd-B6F6-261C8137D773}");
