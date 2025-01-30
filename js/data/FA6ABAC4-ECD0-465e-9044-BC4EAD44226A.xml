@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.8:1", "", "Self Declaration State Diagram", "EARoot/EA8/EA242.htm", "175.png", "222", "0", "", "Logical diagram0","{16945DA1-4A45-4e1d-8799-0F90BD77D64F}");
+tocTab[tocTab.length] = new Array("0.8.1", "1", "SD States", "EARoot/EA8/EA1/EA249.htm", "4.png", "", "", "{F50ADA61-54C9-4bc6-99F6-E6FADD5AED3F}", "Package");
