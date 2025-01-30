@@ -20,3 +20,5 @@ Due to the ongoing developments in work regarding the harmonisation of the natio
 
 Find the latest version of the NB Reference Architecture in the release section:
 [Releases](https://github.com/NAPCORE/NB-Reference-Architecture/releases)
+
+# Licence CCby 4.0
